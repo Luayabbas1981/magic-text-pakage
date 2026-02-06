@@ -29,6 +29,7 @@ Create a container element where the canvas will be injected:
 <div class="text-con"></div>
 
 ### JS
+```bash
 initializeText({
   textContainerClass: "text-con",
   text: "Magic Text",
@@ -46,7 +47,7 @@ initializeText({
   colorThree: "#0000ff",
   startMode: "auto",
 });
-
+```
 ### ## 🔧 Configuration Options
 
 | Option | Type | Required | Notes |
