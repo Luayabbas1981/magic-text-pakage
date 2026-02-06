@@ -64,7 +64,7 @@ initializeText({
 | `effectColor` | `string` | ⚠️ Conditional | Required when `effectColorApplied === true` |
 | `effectRadius` | `number` | ❌ No | Defaults to `80` (mobile capped at `100`) |
 | `duration` | `number` | ❌ No | Defaults internally to `0.05` |
-| `gradient` | `boolean` | ⚠️ Recommended | Enables gradient text |
+| `gradient` | `boolean` | ⚠️  | Enables gradient text |
 | `colorOne` | `string` | ⚠️ Conditional | Required when `gradient === true` |
 | `colorTwo` | `string` | ⚠️ Conditional | Required when `gradient === true` |
 | `colorThree` | `string` | ⚠️ Conditional | Required when `gradient === true` |
