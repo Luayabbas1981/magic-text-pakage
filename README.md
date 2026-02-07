@@ -54,7 +54,7 @@ initializeText({
 
 | Option | Type | Required | Notes |
 |------|------|----------|-------|
-| `textContainerClass` | `string` | ✅ Yes | Must match an existing DOM element and must be an empty element |
+| `textContainerClass` | `string` | ✅ Yes | Must match an existing DOM element and an empty one |
 | `text` | `string` | ❌ No | Defaults to `"Magic Text"` |
 | `fontSize` | `number` | ✅ Yes | Required for proper font rendering |
 | `fontSizeMobile` | `number` | ✅ Yes | Required for mobile rendering |
