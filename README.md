@@ -101,7 +101,7 @@ magicText.destroy();
 - 
 ### Demo
 
-[Magic canvas text...](https://github.com/Luayabbas1981/magic-text)
+[Magic canvas text...](https://luayabbas1981.github.io/magic-text/)
 
 ### npm
 
