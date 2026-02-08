@@ -40,7 +40,7 @@ Create a container element where the canvas will be injected:
 ```js
 import { initializeText } from "magic-canvas-text";
 
-const element = document.querySelector(".text-con");
+const element = document.querySelector(".your-class");
 
 const magicText = initializeText({
   element,
@@ -100,6 +100,7 @@ This makes the API:
 * `random` – particles spawn at random positions
 * `left` – particles animate in from the left
 * `center` – particles animate from the center
+* `top` – particles animate in from top
 * `bottom` – particles animate in from below
 
 ---
